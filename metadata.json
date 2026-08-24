@@ -1,0 +1,6 @@
+{
+  "name": "E-Arsip Teknis Diskominfo",
+  "description": "Sistem digitalisasi, klasifikasi, dan otomatisasi penomoran arsip teknis terstruktur pada Dinas Komunikasi dan Informatika Provinsi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
